@@ -1,0 +1,11 @@
+## function {{ function_name }}
+
+{{ #has_arguments }}
+### Parameters
+
+| name |
+|------|
+{{ #function_arguments }}
+| {{.}} |
+{{ /function_arguments }}
+{{ /has_arguments }}
