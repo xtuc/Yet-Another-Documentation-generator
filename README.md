@@ -1,4 +1,6 @@
-#
+# Yet Another Documentation generator
+
+Functions documentation for JavaScript
 
 ## Motiviations
 
@@ -18,3 +20,23 @@ It should be clear (without author explainations) what the module does: its impa
 * Mustache templating engine: https://github.com/no1msd/mstch
 * Flex
 * GNU/Bison
+
+## Build from source
+
+```sh
+make build
+```
+
+## Launch test
+
+Requires NPM and Node.
+
+Install test dependencies (Mocha) :
+```sh
+npm install
+```
+
+Launch :
+```sh
+npm test
+```
