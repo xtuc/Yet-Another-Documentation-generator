@@ -1,5 +1,7 @@
 # Yet Another Documentation generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xtuc/Yet-Another-Documentation-generator.svg)](https://greenkeeper.io/)
+
 Functions documentation for JavaScript
 
 ## Motiviations
